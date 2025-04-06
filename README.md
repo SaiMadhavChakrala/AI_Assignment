@@ -50,6 +50,10 @@ python3 Q4/q4_cor.py        # Runs Simulated Annealing on TSP
 ```
 The gifs and graphs are saved in the respective folders
 
+## 📊 Results
+
+[📑 Output Slides](https://docs.google.com/presentation/d/1MBWsHDnq6JA1UQafhnuLANyp-Z5CJq1nr2DmU_k_u74/edit?usp=sharing)
+
 ---
 
 ## 👥 Authors
