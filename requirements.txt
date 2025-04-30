@@ -3,3 +3,4 @@ imageio
 gymnasium
 matplotlib
 tsplib95
+pygame
